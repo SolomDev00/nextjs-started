@@ -1,19 +1,6 @@
-# Full Stack Todo App with Next.js, Prisma, and MongoDB
-
-This is a full-stack todo app built with Next.js, TypeScript, Prisma, and MongoDB. It incorporates various features and technologies to provide a comprehensive example of a modern web application.
-
 ## Features
 
 - **Next.js & TypeScript:** Utilizes the power of Next.js for server-side rendering and TypeScript for type safety.
-- **Prisma & MongoDB:** Implements Prisma as the database toolkit and MongoDB for data storage.
-- **Server Actions:** Implements server-side actions for enhanced functionality.
-- **Clerk for Authentication:** Utilizes Clerk for secure and easy authentication.
-- **Add Todo to Logged In User:** Ensures that adding todos is restricted to logged-in users only.
-- **Database Seeding:** Includes a database seeding mechanism for initial data population.
-- **Shadcn UI:** Uses Shadcn UI for pre-built components, enhancing the app's visual appeal.
-- **Toggle Dark Mode:** Incorporates a dark mode feature for user customization.
-- **CRUD Operations:** Provides basic CRUD (Create, Read, Update, Delete) operations for managing todos.
-
 ## Getting Started
 
 ### Prerequisites
